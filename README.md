@@ -4,7 +4,7 @@ The CtrlJ pen is a tool that can automatically control a syringe and fluid such 
 ###3D parts designed
 CtrlJ pen v2 3D parts is made with Fusion 360:
 
-<p align=center><img src="https://github.com/Mauroalfieri/CtrlJ-pen-v2/blob/main/images/CtrlJ-pen-v2-syringe-holder-fusione-360-render.png" width="400" alt="Render CtrlJ pen v2"/></p>
+<p align=center><img src="https://github.com/Mauroalfieri/CtrlJ-pen-v2/blob/main/images/CtrlJ-pen-v2-syringe-holder-fusione-360-render.png?raw=true" width="400" alt="Render CtrlJ pen v2"/></p>
 
 The main changes concern the motor and pcb case, that in this version are integrated into the pen itself.
 
